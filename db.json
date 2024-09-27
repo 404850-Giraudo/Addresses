@@ -1,0 +1,24 @@
+{
+    "addresses": [
+        {
+          "street_address": "Av. Patria",
+          "number": 1234,
+          "floor": 5,
+          "apartment": "B",
+          "city": "Cordoba",
+          "province": "CORDOBA",
+          "country": "ARGENTINA",
+          "postal_code": 5000
+        },
+        {
+            "street_address": "Caseros",
+            "number": 328,
+            "floor": 2,
+            "apartment": "C",
+            "city": "Cordoba",
+            "province": "CORDOBA",
+            "country": "ARGENTINA",
+            "postal_code": 5000
+          }
+    ]
+}
