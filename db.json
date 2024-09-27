@@ -1,6 +1,7 @@
 {
     "addresses": [
         {
+          "id": 1,
           "street_address": "Av. Patria",
           "number": 1234,
           "floor": 5,
@@ -11,6 +12,7 @@
           "postal_code": 5000
         },
         {
+            "id": 2,
             "street_address": "Caseros",
             "number": 328,
             "floor": 2,
