@@ -1,35 +1,37 @@
-[
-  {
-    "id": 1,
-    "street_address": "Av. Patria",
-    "number": 1234,
-    "floor": 5,
-    "apartment": "B",
-    "city": "Cordoba",
-    "province": "CORDOBA",
-    "country": "ARGENTINA",
-    "postal_code": 5000
-  },
-  {
-    "id": 2,
-    "street_address": "Caseros",
-    "number": 328,
-    "floor": 2,
-    "apartment": "C",
-    "city": "Cordoba",
-    "province": "CORDOBA",
-    "country": "ARGENTINA",
-    "postal_code": 5000
-  },
-  {
-    "id": 3,
-    "street_address": "25 de mayo",
-    "number": 1456,
-    "floor": 4,
-    "apartment": "C",
-    "city": "Cordoba",
-    "province": "CORDOBA",
-    "country": "ARGENTINA",
-    "postal_code": 5000
-  }
-]
+{
+  "addresses": [
+    {
+      "id": 1,
+      "street_address": "Av. Patria",
+      "number": 1234,
+      "floor": 5,
+      "apartment": "B",
+      "city": "Cordoba",
+      "province": "CORDOBA",
+      "country": "ARGENTINA",
+      "postal_code": 5000
+    },
+    {
+      "id": 2,
+      "street_address": "Caseros",
+      "number": 328,
+      "floor": 2,
+      "apartment": "C",
+      "city": "Cordoba",
+      "province": "CORDOBA",
+      "country": "ARGENTINA",
+      "postal_code": 5000
+    },
+    {
+      "id": 3,
+      "street_address": "25 de mayo",
+      "number": 1456,
+      "floor": 4,
+      "apartment": "C",
+      "city": "Cordoba",
+      "province": "CORDOBA",
+      "country": "ARGENTINA",
+      "postal_code": 5000
+    }
+  ]
+}
